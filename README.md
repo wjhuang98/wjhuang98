@@ -1,4 +1,4 @@
-### hey i made a thing wjhuang.dev
+hey i made a thing [wjhuang.dev](https://wjhuang.dev/)
 
 <!--
 **wjhuang98/wjhuang98** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
